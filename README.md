@@ -12,7 +12,6 @@
 </p>
 
 ---
-
 ### 🔬 About Me
 
 I'm a Research Assistant in the Department of Electronics Engineering at **Pusan National University**, advised by [Prof. Sangkil Kim](https://scholar.google.com/citations?user=HsUrFQ0AAAAJ). My research focuses on building **ultra-low-power wireless communication systems** that are practical, efficient, and intelligent.
@@ -22,8 +21,7 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 - 🧠 Exploring **AI/DL techniques** to overcome fundamental limits in model-based estimators
 
 ---
-
-
+<br>
 ### 📝 Selected Publications
 
 > <sup>†</sup>First author · <sup>*</sup>Corresponding author
@@ -35,8 +33,7 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 | **C1** | **H. Ryu**<sup>†</sup>, S. Kim<sup>*</sup> | High-Isolation Yagi-Uda Antenna Array using Split-Ring Resonators for Practical Backscatter System | *Proc. IEEE AP-S/URSI*, pp. 2877–2879 | 2025 |
 
 ---
-
-
+<br>
 ### 🛠️ Skills & Tools
 
 **Languages**
@@ -58,8 +55,7 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 ![OrCAD](https://img.shields.io/badge/OrCAD_PCB-0078D4?style=flat-square)
 
 ---
-
-
+<br>
 ### 🔭 Research Interests
 
 ```
@@ -70,8 +66,7 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 ```
 
 ---
-
-
+<br>
 ### 🏛️ Experience
 
 | Period | Role | Affiliation |
@@ -80,16 +75,14 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 | Jan 2024 – Feb 2026 | **Undergraduate Researcher** | Pusan National University (PI: Prof. Sangkil Kim) |
 
 ---
-
-
+<br>
 ### 🏆 Awards
 
 - 🥈 **2nd Place**, Capstone Design Project — Pusan National University, Nov 2025
 - 🥈 **2nd Place**, Hackathon — Pusan National University, Aug 2023
 
 ---
-
-
+<br>
 ### 🎤 Presentations
 
 | Date | Title | Conference | Type |
@@ -99,8 +92,7 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 | Feb 2025 | Improved Backscattering Communication Range Using Reflection Amplifiers | **KIEES 2025**, South Korea | Poster |
 
 ---
-
-
+<br>
 ### 🎖️ Service
 
 - 💰 Treasurer, Student Council, Pusan National University (Dec 2021 – Dec 2022)
