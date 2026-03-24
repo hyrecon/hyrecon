@@ -35,6 +35,7 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 
 ---
 <br>
+
 ### 🛠️ Skills & Tools
 
 **Languages**
@@ -57,6 +58,7 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 
 ---
 <br>
+
 ### 🔭 Research Interests
 
 ```
@@ -68,6 +70,7 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 
 ---
 <br>
+
 ### 🏛️ Experience
 
 | Period | Role | Affiliation |
@@ -77,6 +80,7 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 
 ---
 <br>
+
 ### 🏆 Awards
 
 - 🥈 **2nd Place**, Capstone Design Project — Pusan National University, Nov 2025
@@ -84,6 +88,7 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 
 ---
 <br>
+
 ### 🎤 Presentations
 
 | Date | Title | Conference | Type |
@@ -94,6 +99,7 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 
 ---
 <br>
+
 ### 🎖️ Service
 
 - 💰 Treasurer, Student Council, Pusan National University (Dec 2021 – Dec 2022)
