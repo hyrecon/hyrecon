@@ -64,16 +64,6 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 
 ---
 
-### 🎤 Presentations
-
-| Date | Title | Conference | Type |
-|------|-------|------------|------|
-| Feb 2026 | Ultra-low-power Backscatter Platform with Phase-Aware Channel Estimation | **KIEES 2026**, South Korea | Oral |
-| Jul 2025 | High-Isolation Yagi-Uda Antenna Array using Split-Ring Resonators for Practical Backscatter System | **IEEE AP-S/URSI 2025**, Ottawa, ON, Canada | Oral |
-| Feb 2025 | Improved Backscattering Communication Range Using Reflection Amplifiers | **KIEES 2025**, South Korea | Poster |
-
----
-
 ### 🎖️ Service
 
 - 💰 Treasurer, Student Council, Pusan National University (Dec 2021 – Dec 2022)
