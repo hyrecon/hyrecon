@@ -25,13 +25,13 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 
 ### 📝 Selected Publications
 
-> <sup>†</sup> First author · * Corresponding author
+> <sup>†</sup>First author · <sup>*</sup>Corresponding author
 
-| # | Title | Venue | Year |
-|---|-------|-------|------|
-| **J2** | Ultra-low-power Monostatic Backscatter Platform with Phase-Aware Channel Estimation and System-Level Validation | [arXiv](https://arxiv.org/abs/2601.02227) | 2026 |
-| **J1** | Improved Backscattering Communication Range Using Reflection Amplifiers | J. Korean Inst. Electromagn. Eng. Sci. | 2025 |
-| **C1** | High-Isolation Yagi-Uda Antenna Array using Split-Ring Resonators for Practical Backscatter System | IEEE AP-S/URSI | 2025 |
+| # | Authors | Title | Venue | Year |
+|---|---------|-------|-------|------|
+| **J2** | **H. Ryu**<sup>†</sup>, S. Kim<sup>*</sup> | Ultra-low-power Monostatic Backscatter Platform with Phase-Aware Channel Estimation and System-Level Validation | [arXiv:2601.02227](https://arxiv.org/abs/2601.02227) | 2026 |
+| **J1** | J. Choi<sup>†</sup>, **H. Ryu**<sup>†</sup>, S. Kim<sup>*</sup> | Improved Backscattering Communication Range Using Reflection Amplifiers | *J. Korean Inst. Electromagn. Eng. Sci.*, vol. 36, no. 2, pp. 266–273 | 2025 |
+| **C1** | **H. Ryu**<sup>†</sup>, S. Kim<sup>*</sup> | High-Isolation Yagi-Uda Antenna Array using Split-Ring Resonators for Practical Backscatter System | *Proc. IEEE AP-S/URSI*, pp. 2877–2879 | 2025 |
 
 ---
 
@@ -89,10 +89,6 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 - 🪖 Squad Leader, ROK Marine Corps Force Reconnaissance (Feb 2017 – Jul 2018)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hyrecon&color=1d5d8a&style=flat-square&label=Profile+Views" />
-</p>
 
 <p align="center">
   <em>Feel free to reach out — I always welcome a good conversation ☕</em>
