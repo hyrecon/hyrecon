@@ -28,7 +28,7 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 
 | # | Authors | Title | Venue | Year |
 |---|---------|-------|-------|------|
-| **J2** | **H. Ryu**<sup>†</sup>, S. Kim<sup>*</sup> | Ultra-low-power Monostatic Backscatter Platform with Phase-Aware Channel Estimation and System-Level Validation | *arXiv* | 2026 |
+| **J2** | **H. Ryu**<sup>†</sup>, S. Kim<sup>*</sup> | Ultra-low-power Monostatic Backscatter Platform with Phase-Aware Channel Estimation and System-Level Validation | *arXiv:2601.02227v1 [eess.SP]* | 2026 |
 | **J1** | J. Choi<sup>†</sup>, **H. Ryu**<sup>†</sup>, S. Kim<sup>*</sup> | Improved Backscattering Communication Range Using Reflection Amplifiers | *J. Korean Inst. Electromagn. Eng. Sci.*, vol. 36, no. 2, pp. 266–273 | 2025 |
 | **C1** | **H. Ryu**<sup>†</sup>, S. Kim<sup>*</sup> | High-Isolation Yagi-Uda Antenna Array using Split-Ring Resonators for Practical Backscatter System | *Proc. IEEE AP-S/URSI*, pp. 2877–2879 | 2025 |
 
