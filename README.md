@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hanyeol Ryu 👋</h1>
+<h1 align="center">Hi, I'm Hanyeol 👋</h1>
 
 <p align="center">
   <em>Research Assistant · Electronics Engineering · Pusan National University</em>
