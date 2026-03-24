@@ -22,6 +22,15 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 
 ---
 
+### 🏛️ Experience
+
+| Period | Role | Affiliation |
+|--------|------|-------------|
+| Mar 2026 – Present | **Research Assistant** | Pusan National University (PI: Prof. Sangkil Kim) |
+| Jan 2024 – Feb 2026 | **Undergraduate Researcher** | Pusan National University (PI: Prof. Sangkil Kim) |
+
+---
+
 ### 🛠️ Skills & Tools
 
 **Languages**
@@ -52,15 +61,6 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 🔧 RF/Antenna Design              🌐 IoT Systems
 📶 Wireless Sensing
 ```
-
----
-
-### 🏛️ Experience
-
-| Period | Role | Affiliation |
-|--------|------|-------------|
-| Mar 2026 – Present | **Research Assistant** | Pusan National University (PI: Prof. Sangkil Kim) |
-| Jan 2024 – Feb 2026 | **Undergraduate Researcher** | Pusan National University (PI: Prof. Sangkil Kim) |
 
 ---
 
