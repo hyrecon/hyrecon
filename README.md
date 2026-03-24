@@ -24,7 +24,7 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 
 ### 📝 Selected Publications
 
-:<sup>†</sup>First author · :<sup>*</sup>Corresponding author
+(<sup>†</sup>: First author, <sup>*</sup>: Corresponding author)
 
 | # | Authors | Title | Venue | Year |
 |---|---------|-------|-------|------|
