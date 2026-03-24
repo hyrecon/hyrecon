@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://hyrecon.github.io">🌐 Homepage</a> · 
-  <a href="https://scholar.google.com/citations?user=NFQ9YZUAAAAJ&hl=ko&oi=ao"><img src="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/svg/google-scholar.svg" width="16" height="16" /> Google Scholar</a> · 
-  <a href="https://www.linkedin.com/in/hanyeol-ryu-ba3821361/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="16" height="16" /> LinkedIn</a> · 
+  <a href="https://scholar.google.com/citations?user=NFQ9YZUAAAAJ&hl=ko&oi=ao"><img src="https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white&labelColor=4285F4" height="22" /> </a> · 
+  <a href="https://www.linkedin.com/in/hanyeol-ryu-ba3821361/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" height="22" /></a>
   <a href="mailto:9lo522@pusan.ac.kr">📧 Email</a>
 </p>
 
@@ -28,7 +28,7 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 
 | # | Authors | Title | Venue | Year |
 |---|---------|-------|-------|------|
-| **J2** | **H. Ryu**<sup>†</sup>, S. Kim<sup>*</sup> | Ultra-low-power Monostatic Backscatter Platform with Phase-Aware Channel Estimation and System-Level Validation | [arXiv:2601.02227](https://arxiv.org/abs/2601.02227) | 2026 |
+| **J2** | **H. Ryu**<sup>†</sup>, S. Kim<sup>*</sup> | Ultra-low-power Monostatic Backscatter Platform with Phase-Aware Channel Estimation and System-Level Validation | *arXiv* | 2026 |
 | **J1** | J. Choi<sup>†</sup>, **H. Ryu**<sup>†</sup>, S. Kim<sup>*</sup> | Improved Backscattering Communication Range Using Reflection Amplifiers | *J. Korean Inst. Electromagn. Eng. Sci.*, vol. 36, no. 2, pp. 266–273 | 2025 |
 | **C1** | **H. Ryu**<sup>†</sup>, S. Kim<sup>*</sup> | High-Isolation Yagi-Uda Antenna Array using Split-Ring Resonators for Practical Backscatter System | *Proc. IEEE AP-S/URSI*, pp. 2877–2879 | 2025 |
 
