@@ -94,12 +94,14 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 
 ### 🎖️ Service
 
+- 💰 Treasurer, Student Council, Pusan National University (Dec 2021 – Dec 2022)
 - 🎓 Student Ambassador, Pusan National University (Apr 2021 – Feb 2023)
 - 🌏 Overseas Volunteering: 3D Printing & Arduino Education — Thailand (Dec 2022 – Feb 2023)
 - 🪖 Squad Leader, ROK Marine Corps Force Reconnaissance (Feb 2017 – Jul 2018)
+- 🥈 2nd Place, ROK Marine Corps Force Reconnaissance Selection and Qualification Training (Jun 2017 – Aug 2017)
 
 ---
 
 <p align="center">
-  <em>Feel free to reach out — I always welcome a good conversation ☕</em>
+  <em>Feel free to reach out — I always welcome a good conversation </em>☕
 </p>
