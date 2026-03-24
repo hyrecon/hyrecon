@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://hyrecon.github.io">🌐 Homepage</a> · 
-  <a href="https://scholar.google.com/citations?user=NFQ9YZUAAAAJ&hl=ko&oi=ao"><img src="https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white&labelColor=4285F4" height="22" /> </a> · 
-  <a href="https://www.linkedin.com/in/hanyeol-ryu-ba3821361/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" height="22" /></a>
+  <a href="https://scholar.google.com/citations?user=NFQ9YZUAAAAJ&hl=ko&oi=ao">🎓 Google Scholar</a> · 
+  <a href="https://www.linkedin.com/in/hanyeol-ryu-ba3821361/">💼 LinkedIn</a> · 
   <a href="mailto:9lo522@pusan.ac.kr">📧 Email</a>
 </p>
 
