@@ -23,6 +23,7 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 
 ---
 
+
 ### 📝 Selected Publications
 
 > <sup>†</sup>First author · <sup>*</sup>Corresponding author
@@ -34,6 +35,7 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 | **C1** | **H. Ryu**<sup>†</sup>, S. Kim<sup>*</sup> | High-Isolation Yagi-Uda Antenna Array using Split-Ring Resonators for Practical Backscatter System | *Proc. IEEE AP-S/URSI*, pp. 2877–2879 | 2025 |
 
 ---
+
 
 ### 🛠️ Skills & Tools
 
@@ -57,6 +59,7 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 
 ---
 
+
 ### 🔭 Research Interests
 
 ```
@@ -65,6 +68,9 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 🔧 RF/Antenna Design              🌐 IoT Systems
 📶 Wireless Sensing
 ```
+
+---
+
 
 ### 🏛️ Experience
 
@@ -75,12 +81,14 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 
 ---
 
+
 ### 🏆 Awards
 
 - 🥈 **2nd Place**, Capstone Design Project — Pusan National University, Nov 2025
 - 🥈 **2nd Place**, Hackathon — Pusan National University, Aug 2023
 
 ---
+
 
 ### 🎤 Presentations
 
@@ -91,6 +99,7 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 | Feb 2025 | Improved Backscattering Communication Range Using Reflection Amplifiers | **KIEES 2025**, South Korea | Poster |
 
 ---
+
 
 ### 🎖️ Service
 
