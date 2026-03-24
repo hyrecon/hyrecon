@@ -66,17 +66,6 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 📶 Wireless Sensing
 ```
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyrecon&show_icons=true&theme=default&hide_border=true&bg_color=f5f4f0&title_color=1d5d8a&icon_color=1d5d8a&text_color=3a3a3a" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyrecon&layout=compact&theme=default&hide_border=true&bg_color=f5f4f0&title_color=1d5d8a&text_color=3a3a3a" height="165" />
-</p>
-
----
-
 ### 🏛️ Experience
 
 | Period | Role | Affiliation |
@@ -89,7 +78,7 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 ### 🏆 Awards
 
 - 🥈 **2nd Place**, Capstone Design Project — Pusan National University, Nov 2025
-- 🥈 **2nd Place**, Innovation & Prototyping Competition — Pusan National University, Aug 2023
+- 🥈 **2nd Place**, Hackathon — Pusan National University, Aug 2023
 
 ---
 
