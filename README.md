@@ -16,8 +16,8 @@
 
 I'm a Research Assistant in the Department of Electronics Engineering at **Pusan National University**, advised by [Prof. Sangkil Kim](https://scholar.google.com/citations?user=HsUrFQ0AAAAJ). My research focuses on building **ultra-low-power wireless communication systems** that are practical, efficient, and intelligent.
 
-- 🎯 Currently working on **deep learning-driven channel estimation** for backscatter communications
-- 📡 Built an **end-to-end monostatic backscatter platform** with over-the-air multimedia transmission
+- 🎯 Currently working on **deep learning-driven channel estimation** for wireless communications
+- 📡 Built an **end-to-end ultra-low-power monostatic backscatter platform** with over-the-air multimedia transmission
 - 🧠 Exploring **AI/DL techniques** to overcome fundamental limits in model-based estimators
 
 ---
