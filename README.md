@@ -18,7 +18,7 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 
 - 🎯 Currently working on **deep learning-driven channel estimation** for ultra-low-power indoor communications
 - 📡 Built an **end-to-end ultra-low-power monostatic backscatter platform** with over-the-air multimedia transmission
-- 🧠 Exploring **AI/DL techniques** to overcome fundamental limits in model-based estimators
+- 🧠 Exploring **AI/ML techniques** to overcome fundamental limits in model-based estimators
 
 ---
 
@@ -56,7 +56,7 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 ### 🔭 Research Interests
 
 ```
-📡 Backscatter Communications     🧠 AI/DL for Wireless Communications
+📡 Backscatter Communications     🧠 AI/ML for Wireless Communications
 📊 Channel Modeling & Estimation  📻 Software-Defined Radio
 🔧 RF Systems                     🌐 IoT Applications
 📶 Wireless Sensing
