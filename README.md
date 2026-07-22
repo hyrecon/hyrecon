@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://hyrecon.github.io">🌐 Homepage</a> · 
-  <a href="javascript:void(0)">🎓 Google Scholar</a> · 
+  <a href="https://scholar.google.com/citations?user=NFQ9YZUAAAAJ&hl=ko">🎓 Google Scholar</a> · 
   <a href="https://www.linkedin.com/in/hanyeol-ryu-ba3821361/">💼 LinkedIn</a> · 
   <a href="mailto:9lo522@pusan.ac.kr">📧 Email</a>
 </p>
