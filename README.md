@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hanyeol 👋</h1>
 
 <p align="center">
-  <em>Research Assistant · Electronics Engineering · Pusan National University</em>
+  <em>M.S. Student · Electrical and Electronics Engineering · Pusan National University</em>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ---
 ### 🔬 About Me
 
-I'm a Research Assistant in the Department of Electronics Engineering at **Pusan National University**, advised by [Prof. Sangkil Kim](https://scholar.google.com/citations?user=HsUrFQ0AAAAJ). My research focuses on building **ultra-low-power wireless communication systems** that are practical, efficient, and intelligent.
+I'm an MS student in Electrical and Electronics Engineering at **Pusan National University**, advised by [Prof. Sangkil Kim](https://scholar.google.com/citations?user=HsUrFQ0AAAAJ). My research focuses on building **ultra-low-power wireless communication systems** that are practical, efficient, and intelligent.
 
 - 🎯 Currently working on **deep learning-driven channel estimation** for ultra-low-power indoor communications
 - 📡 Built an **end-to-end ultra-low-power monostatic backscatter platform** with over-the-air multimedia transmission
@@ -26,8 +26,7 @@ I'm a Research Assistant in the Department of Electronics Engineering at **Pusan
 
 | Period | Role | Affiliation |
 |--------|------|-------------|
-| Mar 2026 – Present | **Research Assistant** | Pusan National University (PI: Prof. Sangkil Kim) |
-| Jan 2024 – Feb 2026 | **Undergraduate Researcher** | Pusan National University (PI: Prof. Sangkil Kim) |
+| Jan 2024 – Present | **Research Assistant** | Pusan National University (PI: Prof. Sangkil Kim) |
 
 ---
 
