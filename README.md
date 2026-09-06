@@ -14,7 +14,7 @@
 ---
 ### 🔬 About Me
 
-I'm a first-year M.S. student in Electrical and Electronics Engineering at **Pusan National University**, advised by [Dr. Sangkil Kim](https://scholar.google.com/citations?user=HsUrFQ0AAAAJ). My research focuses on building **ultra-low-power wireless communication systems** that are practical, efficient, and intelligent.
+I'm a first-year MS student in Electrical and Electronics Engineering at **Pusan National University**, advised by [Dr. Sangkil Kim](https://scholar.google.com/citations?user=HsUrFQ0AAAAJ). My research focuses on building **ultra-low-power wireless communication systems** that are practical, efficient, and intelligent.
 
 - 🎯 Currently working on **deep learning-driven channel estimation** for ultra-low-power indoor communications
 - 📡 Built an **end-to-end ultra-low-power monostatic backscatter platform** with over-the-air multimedia transmission
