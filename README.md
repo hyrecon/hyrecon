@@ -6,9 +6,9 @@
   <a href="https://www.linkedin.com/in/hanyeol-ryu-ba3821361/">💼 LinkedIn</a> · 
   <a href="mailto:9lo522@pusan.ac.kr">📧 Email</a>
 </p>
-<p align="center">
-  <em>More details are available in my <a href="https://hyrecon.github.io/Curriculum%20Vitae_HY_PW.pdf">📄 CV</a>.</em>
-</p>
+<h4 align="center">
+  <em>More details are available in my <a href="https://hyrecon.github.io/Curriculum%20Vitae_HY_PW.pdf">📄 CV</a> !</em>
+</h4>
 
 ---
 ### 🔬 About Me
