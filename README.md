@@ -26,7 +26,14 @@ I'm a first-year MS student in Electrical and Electronics Engineering at **Pusan
 
 | Period | Role | Affiliation |
 |--------|------|-------------|
-| Jan 2024 – Present | **Research Assistant** | Pusan National University (PI: Prof. Sangkil Kim) |
+| Jan 2024 – Present | **Research Assistant** | Pusan National University (PI: Dr. Sangkil Kim) |
+
+---
+
+### 🎖️ Professional Activities
+
+- Reviewer, IEEE Internet of Things Journal (IoT-J), 2026
+- TPC Reviewer, IEEE International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS), 2026
 
 ---
 
@@ -60,17 +67,6 @@ I'm a first-year MS student in Electrical and Electronics Engineering at **Pusan
 🔧 RF Systems                     🌐 IoT Applications
 📶 Wireless Sensing
 ```
-
----
-
-### 🎖️ Service
-
-- 💰 Treasurer, Student Council, Pusan National University (Dec 2021 – Dec 2022)
-- 🎓 Student Ambassador, Pusan National University (Apr 2021 – Feb 2023)
-- 🌏 Overseas Volunteering: 3D Printing & Arduino Education — Thailand (Dec 2022 – Feb 2023)
-- 🪖 Squad Leader, ROK Marine Corps Force Reconnaissance (Feb 2017 – Jul 2018)
-- 🥈 2nd Place, ROK Marine Corps Force Reconnaissance Selection and Qualification Training (Jun 2017 – Aug 2017)
-
 ---
 
 <p align="center">
