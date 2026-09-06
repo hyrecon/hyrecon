@@ -1,14 +1,13 @@
 <h1 align="center">Hi, I'm Hanyeol 👋</h1>
 
 <p align="center">
-  <em>M.S. Student · Electrical and Electronics Engineering · Pusan National University</em>
-</p>
-
-<p align="center">
   <a href="https://hyrecon.github.io">🌐 Homepage</a> · 
   <a href="https://scholar.google.com/citations?user=NFQ9YZUAAAAJ&hl=ko">🎓 Google Scholar</a> · 
   <a href="https://www.linkedin.com/in/hanyeol-ryu-ba3821361/">💼 LinkedIn</a> · 
   <a href="mailto:9lo522@pusan.ac.kr">📧 Email</a>
+</p>
+<p align="center">
+  <em>More details are available in my <a href="https://hyrecon.github.io/Curriculum%20Vitae_HY_PW.pdf">📄 CV</a>.</em>
 </p>
 
 ---
